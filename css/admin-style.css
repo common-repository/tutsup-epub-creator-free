@@ -1,0 +1,109 @@
+.clearfix:after {
+    content: '.';
+    height: 0;
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden;
+}
+.tutsup-content {
+    margin: 30px 0;
+}
+.tutsup-labels {
+    display: block;
+    margin-top: 10px;
+}
+.tutsup-content *, 
+.tutsup-content *:after, 
+.tutsup-content *:before {
+    box-sizing: border-box !important;
+    max-width: 100%;
+}
+.tutsup-cols, 
+.tutsup-noticia {
+    float: left;
+}
+.tutsup-content .tutsup-left-col {
+    width: 30%;
+}
+.tutsup-content .tutsup-right-col {
+    width: 70%;
+}
+.tutsup-right-col-inner {
+    margin-left: 10px;
+}
+.tutsup-noticia {
+    min-height: 100px;
+    background: #eee;
+    border: 1px solid #ccc;
+}
+.tutsup-noticia-padrao {
+    width: 33.33%;
+}
+.tutsup-noticia-full {
+    width: 100%;
+}
+.tutsup-noticia-ajax, 
+.tutsup-placeholder{
+    padding: 3px;
+    display: block;
+    margin: 5px;
+    max-width: 500px;
+    border: 1px solid #1e83a8;
+    background: #2ea2cc;
+    color: #fff;
+}
+.tutsup-placeholder {
+    background: none;
+    border: 1px dotted #999;
+}
+.tutsup-placeholder:after {
+    color: yellow;
+    content: '.';
+    display: block;
+    clear: both;
+}
+.tutsup-noticias-encontradas {
+
+}
+.searching {
+    margin: 30px 0;
+}
+.tutsup-lixo {
+    display: block;
+}
+.tutsup-move-noticia {
+    float: left;
+    margin: 0 10px 0 0;
+}
+.tutsup-apaga-noticia {}
+.tutsup-drag-here {
+    padding: 10px 0;
+    margin: 0;
+}
+.tutsup-success, 
+.tutsup-error {
+    font-weight: 700;
+    color: #000;
+    border-left: 2px solid #2CBB0F;
+    background: none repeat scroll 0% 0% #FFF;
+    padding: 10px;
+}
+.tutsup-error {
+    border-left: 2px solid red;
+}
+.tutsup-post-ids {
+    display: none;
+}
+.tutsup-data {
+    padding: 10px 10px 30px 10px;
+    background: #fff;
+    margin-bottom: 20px;
+}
+.tutsup-heading {
+    margin: 0.5em 0 1em 0;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #eee;
+}

@@ -1,0 +1,69 @@
+<h1>TPEpubCreator - Free PHP Class to create e-books</h1>
+
+<p>This is a free PHP class that allows you to create e-books using <a href="http://idpf.org/epub">idpf EPUB format</a>.</p>
+
+<p>The main class file is in the classes folder and you can change it if you want. Please, if you improve this class, let us know, so we can share it with all developers and users arround the world.</p>
+
+<p>There is an example on how to use this class in the index.php file, it&#39;s pretty simple.</p>
+
+<p>Pellentesque habitant <strong>morbi tristique</strong> senectus<sup>2</sup> et<sub>3</sub> netus et <em>malesuada</em> fames ac <u>turpis</u> egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+<h2>Pellentesque habitant morbi tristique senectus</h2>
+
+<p>Pellentesque habitant <strong>morbi tristique</strong> senectus<sup>2</sup> et<sub>3</sub> netus et <em>malesuada</em> fames ac <u>turpis</u> egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+<p>Pellentesque habitant morbi <s>tristique senectus</s> et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+<h3>TPEpubCreator - Free PHP Class to create e-books</h3>
+
+<p>This is a free PHP class that allows you to create e-books using <a href="http://idpf.org/epub">idpf EPUB format</a>.</p>
+
+<p>The main class file is in the classes folder and you can change it if you want. Please, if you improve this class, let us know, so we can share it with all developers and users arround the world.</p>
+
+<p>There is an example on how to use this class in the index.php file, it&#39;s pretty simple.</p>
+
+<p>Pellentesque habitant <strong>morbi tristique</strong> senectus<sup>2</sup> et<sub>3</sub> netus et <em>malesuada</em> fames ac <u>turpis</u> egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+<h4>Pellentesque habitant morbi tristique senectus</h4>
+
+<p>Pellentesque habitant <strong>morbi tristique</strong> senectus<sup>2</sup> et<sub>3</sub> netus et <em>malesuada</em> fames ac <u>turpis</u> egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+<p>Pellentesque habitant morbi <s>tristique senectus</s> et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+<h5>TPEpubCreator - Free PHP Class to create e-books</h5>
+
+<p>This is a free PHP class that allows you to create e-books using <a href="http://idpf.org/epub">idpf EPUB format</a>.</p>
+
+<p>The main class file is in the classes folder and you can change it if you want. Please, if you improve this class, let us know, so we can share it with all developers and users arround the world.</p>
+
+<p>There is an example on how to use this class in the index.php file, it&#39;s pretty simple.</p>
+
+<p>Pellentesque habitant <strong>morbi tristique</strong> senectus<sup>2</sup> et<sub>3</sub> netus et <em>malesuada</em> fames ac <u>turpis</u> egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+<h6>Pellentesque habitant morbi tristique senectus</h6>
+
+<p>Pellentesque habitant <strong>morbi tristique</strong> senectus<sup>2</sup> et<sub>3</sub> netus et <em>malesuada</em> fames ac <u>turpis</u> egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+<p>Pellentesque habitant morbi <s>tristique senectus</s> et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+<ul>
+	<li>test 1</li>
+	<li>test 2</li>
+	<li>test 3</li>
+</ul>
+
+<p>Pellentesque habitant morbi <s>tristique senectus</s> et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+<div style="page-break-after: always;"><span style="display: none;">&nbsp;</span></div>
+
+<p>Pellentesque habitant morbi <s>tristique senectus</s> et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+<p><span style="color:#FF0000;"><span style="background-color:#800000;">Pellentesque habitant </span><strong><span style="background-color:#800000;">morbi tristique</span></strong><span style="background-color:#800000;"> senectus</span><sup><span style="background-color:#800000;">2</span></sup><span style="background-color:#800000;"> et</span><sub><span style="background-color:#800000;">3</span></sub><span style="background-color:#800000;"> netus et </span><em><span style="background-color:#800000;">malesuada</span></em><span style="background-color:#800000;"> fames ac </span><u><span style="background-color:#800000;">turpis</span></u><span style="background-color:#800000;"> egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</span></span></p>
+
+<p>Just testing!</p>

@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tutsup\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Luiz Otavio Miranda <contato@tutsup.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+msgid "Your posts"
+msgstr "Seus posts"
+
+msgid "Search your posts:"
+msgstr "Encontre seus posts:"
+
+msgid "Searching..."
+msgstr "Procurando..."
+
+msgid "Book pages"
+msgstr "Páginas do livro"
+
+msgid "Drag pages here to delete"
+msgstr "Arraste páginas aqui para remover"
+
+msgid "Drag posts bellow:"
+msgstr "Arraste os posts abaixo:"
+
+msgid "Create book"
+msgstr "Criar livro"
+
+msgid "Please, wait..."
+msgstr "Por favor, aguarde..."
+
+msgid "Success: Download your book"
+msgstr "Sucesso: Baixe seu livro"
+
+msgid "here"
+msgstr "aqui"
+
+msgid "Please, refer to"
+msgstr "Por favor, consulte"
+
+msgid "for more details."
+msgstr "para mais detalhes."
+
+msgid "Book data"
+msgstr "Dados do livro"
+
+msgid "Organize pages"
+msgstr "Organizar páginas"
+
+msgid ""
+"Here you can search your posts and then drag and drop them to your book "
+"pages."
+msgstr ""
+"Aqui você pode procurar seus posts e então arrastar e soltar para as páginas "
+"do livro."
+
+msgid "Please, add pages to your book."
+msgstr "Por favor, adicione páginas ao seu livro."
+
+msgid "You must fill all fields to create a book."
+msgstr "Você deve preencher todos os campos para criar um livro."
+
+msgid "Book cover:"
+msgstr "Capa do livro"
+
+msgid ""
+"Tutsup Epub Creator Free allows you to create EPUB e-books using your "
+"WordPress posts. You can search, add and organize posts into your e-book. "
+"You can add a cover image and set the book details. It makes it easier for "
+"you to create e-books for your readers, so they can read your content using "
+"e-book readers like Google Play Books or Calibre."
+msgstr ""
+"Tutsup Epub Creator permite que você crie e-books EPUB usando seus posts do "
+"WordPress. Você pode pesquisar, adicionar e organizar as páginas do seu e-"
+"book, adicionar uma imagem da capa e definir os detalhes do livro. Ela torna "
+"mais fácil para você criar e-books para os seus leitores, para que eles "
+"possam ler o seu conteúdo através de e-books readers, como o Google Play "
+"Books ou Calibre."
